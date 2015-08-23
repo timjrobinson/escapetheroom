@@ -1,0 +1,19 @@
+#game {
+  float: left;
+}
+
+#panel {
+  border: 1px dotted black;
+  padding: 20px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  width: 300px;
+  float: left;
+  
+}
+
+#panel .itemName {
+  font-size: 32px;
+  font-weight: bold;
+  
+}
